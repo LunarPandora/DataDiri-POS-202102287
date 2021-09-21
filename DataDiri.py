@@ -112,7 +112,7 @@ def info_cv():
     print("Pendidikan nonformal :\n", pddk_nonformal)
     print("Organisasi           :\n", organisasi)
     print("Pengalaman Kerja     :\n", pengalaman_krja)
-    print("Prestasi / Pekerjaan :\n", prestasi)
+    print("Prestasi / Penghargaan :\n", prestasi)
     
     print("==================================================================================================\n")
 
